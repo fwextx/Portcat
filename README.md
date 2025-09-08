@@ -33,5 +33,6 @@ cd Portcat</pre>
 - On a Computer using Python 3.13, install the required packages:
 <pre>pip install -r requirements.txt</pre>
 
-4. Run file
-   <pre>py main.py</pre>
+4. Run the file 
+<pre>py main.py</pre>
+-# Administrator Privileges Required to open (To allow Firewall Modification)
