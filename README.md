@@ -20,6 +20,18 @@ Portcat is a lightweight, Python-based network monitoring and firewall tool. It 
 
 1. **Clone the repository**:
 
-
 <pre>git clone https://github.com/fwextx/Portcat.git
 cd Portcat</pre>
+
+2. Set Up a Virtual Environment
+- Create the Virtual Enviroment
+<pre>py -m venv Portcat</pre>
+- Enable the Virtual Enviroment
+<pre>Portcat\Scripts\activate</pre>
+
+3. Install Requirements
+- On a Computer using Python 3.13, install the required packages:
+<pre>pip install -r requirements.txt</pre>
+
+4. Run file
+   <pre>py main.py</pre>
