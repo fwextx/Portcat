@@ -20,6 +20,6 @@ Portcat is a lightweight, Python-based network monitoring and firewall tool. It 
 
 1. **Clone the repository**:
 
-```
-git clone https://github.com/fwextx/Portcat.git
-cd Portcat
+
+<pre>git clone https://github.com/fwextx/Portcat.git
+cd Portcat</pre>
